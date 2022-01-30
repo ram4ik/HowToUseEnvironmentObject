@@ -11,6 +11,8 @@
 		95838A5A27A66F73007D2B7D /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 95838A5927A66F73007D2B7D /* ContentView.swift */; };
 		95838A5C27A66F74007D2B7D /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 95838A5B27A66F74007D2B7D /* Assets.xcassets */; };
 		95838A5F27A66F75007D2B7D /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 95838A5E27A66F75007D2B7D /* Preview Assets.xcassets */; };
+		95838A6627A66FFF007D2B7D /* SampleView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 95838A6527A66FFF007D2B7D /* SampleView.swift */; };
+		95838A6827A67075007D2B7D /* TextBlockView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 95838A6727A67075007D2B7D /* TextBlockView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +21,8 @@
 		95838A5927A66F73007D2B7D /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		95838A5B27A66F74007D2B7D /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		95838A5E27A66F75007D2B7D /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		95838A6527A66FFF007D2B7D /* SampleView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SampleView.swift; sourceTree = "<group>"; };
+		95838A6727A67075007D2B7D /* TextBlockView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TextBlockView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -55,6 +59,8 @@
 				95838A5927A66F73007D2B7D /* ContentView.swift */,
 				95838A5B27A66F74007D2B7D /* Assets.xcassets */,
 				95838A5D27A66F75007D2B7D /* Preview Content */,
+				95838A6527A66FFF007D2B7D /* SampleView.swift */,
+				95838A6727A67075007D2B7D /* TextBlockView.swift */,
 			);
 			path = HowToUseEnvironmentObject;
 			sourceTree = "<group>";
@@ -138,6 +144,8 @@
 			buildActionMask = 2147483647;
 			files = (
 				95838A5A27A66F73007D2B7D /* ContentView.swift in Sources */,
+				95838A6827A67075007D2B7D /* TextBlockView.swift in Sources */,
+				95838A6627A66FFF007D2B7D /* SampleView.swift in Sources */,
 				95838A5827A66F73007D2B7D /* HowToUseEnvironmentObjectApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
